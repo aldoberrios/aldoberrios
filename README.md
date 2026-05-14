@@ -23,3 +23,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Projects and things in my github repositories
+
+I am interested in creating apps and designing scripts to automate tedious processes while working with texts and structures in Mapudungun. 
+
++ I have created an online app that can convert between orthographies, that can be consulted in this shinyapp page:  [Wirintukufe](https//aldoberrios.shinyapps.io/Wirintukufe/).
+
++ 
