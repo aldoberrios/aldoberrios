@@ -1,8 +1,13 @@
 ## Mari Mari! 👋
 
-I’m a research student at the University of Edinburgh in the second year of a PhD in linguistics. I’m currently working on the field of Historical linguistics.
-I am interested in the historical trajectories of Mapudungun, specially within the intersection between phonology and morphology. Since Mapudungun is considered a language isolate, different techniques are used to unveil the ancestral stages of the language. I am currently studying morphophonological alternations that affect roots and other morphemes. By applying what is called internal reconstruction in Historical Linguistics, as well as the assumptions and predictions of particular linguistic frameworks, my objective is to trace ancestral phonological trajectories in this language.
+I’m a research student at the University of Edinburgh doing a PhD in linguistics. I’m currently working on the field of Historical linguistics.
+I am interested in the historical trajectories of Mapudungun, specially at the intersection between phonology and morphology. Since Mapudungun is a language isolate, different techniques are used to unveil the ancestral stages of the language.
 
+I am currently studying alternations that may be characterised as phonological / morphological / lexical depending of the locus of explanation.
+
+These patterns of variation can appear in roots/stems as well as inflectional affixes and in view of the transparante separative exponence of Mapudungun morphology, they are quite interesting for assessing the role of grammatical modules, as well as the explanatory power of diachronic processes. 
+
+By applying what is called internal reconstruction in Historical Linguistics, as well as the assumptions and predictions of particular linguistic frameworks, my objective is to trace ancestral phonological trajectories in this language.
 
 <!--
 **aldoberrios/aldoberrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
