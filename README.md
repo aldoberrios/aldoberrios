@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Projects and things in my github repositories
+## Projects and things in my github repositories
 
 I am interested in creating apps and designing scripts to automate tedious processes while working with texts and structures in Mapudungun. 
 
