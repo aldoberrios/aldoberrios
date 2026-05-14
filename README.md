@@ -31,4 +31,4 @@ I am interested in creating apps and designing scripts to automate tedious proce
 
 + I have created an online app that can convert between orthographies, that can be consulted in this shinyapp page:  [Wirintukufe](https//aldoberrios.shinyapps.io/Wirintukufe/).
 
-+ 
++ You can consult a [Praat Cheasheet here](https://github.com/aldoberrios/Praat_cheatsheet)
